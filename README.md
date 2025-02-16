@@ -1,1 +1,1 @@
-run in anaconda not in vs
+run in anaconda not in visual studio 
